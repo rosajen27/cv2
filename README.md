@@ -1,3 +1,2 @@
-The Complete 2020 Web Development Bootcamp by Angela Yu
-
-Second Coding Challenge: CV 2
+## Curriculum Vitae
+Sample Curriculum Vitae from the Complete 2020 Web Development Bootcamp by Angela Yu
