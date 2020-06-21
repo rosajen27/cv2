@@ -1,11 +1,3 @@
-## Curriculum Vitae
-
-
-Deployed Website: 
-
-![cv](./images/Capture.JPG)
-
-
 # Sample Curriculum Vitae
 
 Sample Curriculum Vitae Challenge created from and based off of observing end result PDF from the Complete 2020 Web Development Bootcamp by Angela Yu.
