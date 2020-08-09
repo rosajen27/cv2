@@ -11,7 +11,7 @@ Deployed Website: https://rosajen27.github.io/cv2/
 Angela Yu's End Result Challenge: https://github.com/rosajen27/cv2/blob/master/CSS_My_Site_End_Results.pdf
 
 
-![cv](./images/Capture.JPG)
+![cv](./images/Capture.png)
 
 
 ## Built With
