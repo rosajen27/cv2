@@ -1,6 +1,6 @@
-# 💼 Sample Curriculum Vitae
+# 💼 Simple Curriculum Vitae
 
-Sample Curriculum Vitae Challenge created from and based off of observing end result PDF from the Complete 2020 Web Development Bootcamp by Angela Yu.
+Simple Curriculum Vitae created from and based off of observing end result PDF from the Complete 2020 Web Development Bootcamp by Angela Yu.
 
 
 ## Deployment
