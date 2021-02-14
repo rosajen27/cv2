@@ -1,23 +1,20 @@
-# Sample Curriculum Vitae
+# 💼 Sample Curriculum Vitae
 
 Sample Curriculum Vitae Challenge created from and based off of observing end result PDF from the Complete 2020 Web Development Bootcamp by Angela Yu.
 
 
 ## Deployment
 
-Deployed Website: https://rosajen27.github.io/cv2/
-
-
-Angela Yu's End Result Challenge: https://github.com/rosajen27/cv2/blob/master/CSS_My_Site_End_Results.pdf
-
+Demo: https://rosajen27.github.io/cv2/
 
 ![cv](./images/Capture.png)
 
 
 ## Built With
 
-  - HTML
-  - CSS
+  * HTML
+  * CSS
+
 
 ## Authors
 
@@ -31,7 +28,7 @@ Angela Yu's End Result Challenge: https://github.com/rosajen27/cv2/blob/master/C
 
 This project is licensed under the MIT License.
 
-Copyright (c) 2020 Jennifer Rosa
+Copyright (c) 2021 Jennifer Rosa
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -53,4 +50,4 @@ SOFTWARE.
 
 ## Acknowledgments
 
-  - The Complete 2020 Web Development Bootcamp by Angela Yu
+  * The Complete 2020 Web Development Bootcamp by Angela Yu
